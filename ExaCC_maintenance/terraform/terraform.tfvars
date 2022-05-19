@@ -1,0 +1,13 @@
+tenancy_ocid             = "ocid1.tenancy.oc1..aaaaaaaafipe4lmxxxxxxxxxxxxxxxxxxxxxxxxxxx5mb5x"
+user_ocid                = "ocid1.user.oc1..aaaaaaaamotj4cs75axxxxxxxxxxxxxxxxxxxxxxx3zzvlux"
+fingerprint              = "7c:1d:a0:00:00:00:00:00:00:00:00:00:00:00:13:b2"
+private_key_path         = "/Users/cpauliat/.oci/apikey.pem"
+region                   = "eu-frankfurt-1"     
+
+network_compartment_ocid = "ocid1.compartment.oc1..aaaaaaaa72rvuwmv2k5egaxxxxxxxxxxxxxxxxx7shfks2zzdu2fncmzxxxx"   
+bucket_compartment_ocid  = "ocid1.compartment.oc1..aaaaaaaa72rvuwmv2k5egaxxxxxxxxxxxxxxxxx7shfks2zzdu2fncmzxxxx"  
+vault_compartment_ocid   = "ocid1.compartment.oc1..aaaaaaaa72rvuwmv2k5egaxxxxxxxxxxxxxxxxx7shfks2zzdu2fncmzxxxx"    
+function_id              = "ocid1.fnfunc.oc1.eu-frankfurt-1.aaaaaaaa4dhpcakuxxxxxxxxxxxxxxxxxxxdscncfwciawxbez4fxxxx"
+bucket_name              = "ExaCC_dashboards"
+vault_id                 = "ocid1.vault.oc1.eu-frankfurt-1.cbrhxz6caagoe.abtheljsdhszh6x7vxxxxxxxxxxxxxxxxxxufgxxxx"
+vault_secret_id          = "ocid1.vaultsecret.oc1.eu-frankfurt-1.amaaaaaanmvrbeaxxxxxxxxxxxxxxxxxxxnzx35sxxxxx"
