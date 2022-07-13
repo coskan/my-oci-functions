@@ -8,6 +8,6 @@ network_compartment_ocid = "ocid1.compartment.oc1..aaaaaaaa72rvuwmv2k5egaxxxxxxx
 bucket_compartment_ocid  = "ocid1.compartment.oc1..aaaaaaaa72rvuwmv2k5egaxxxxxxxxxxxxxxxxx7shfks2zzdu2fncmzxxxx"  
 vault_compartment_ocid   = "ocid1.compartment.oc1..aaaaaaaa72rvuwmv2k5egaxxxxxxxxxxxxxxxxx7shfks2zzdu2fncmzxxxx"    
 function_id              = "ocid1.fnfunc.oc1.eu-frankfurt-1.aaaaaaaa4dhpcakuxxxxxxxxxxxxxxxxxxxdscncfwciawxbez4fxxxx"
-bucket_name              = "ExaCC_dashboards"
+bucket_name              = "ExaCC_maintenance_reports"
 vault_id                 = "ocid1.vault.oc1.eu-frankfurt-1.cbrhxz6caagoe.abtheljsdhszh6x7vxxxxxxxxxxxxxxxxxxufgxxxx"
 vault_secret_id          = "ocid1.vaultsecret.oc1.eu-frankfurt-1.amaaaaaanmvrbeaxxxxxxxxxxxxxxxxxxxnzx35sxxxxx"
