@@ -1,5 +1,8 @@
 # ----------------------------------------------------------------------------------------------------
-# This OCI function is called by a OCI Events when a group of ExaCC Exadata Infrastructures
+# Copyright © 2020-2022, Oracle and/or its affiliates. 
+# All rights reserved. The Universal Permissive License (UPL), Version 1.0 as shown at http://oss.oracle.com/licenses/upl
+#
+# This OCI function is called by OCI Events when a group of ExaCC Exadata Infrastructures
 # is being patched during quarterly maintenances
 #
 # This function:
