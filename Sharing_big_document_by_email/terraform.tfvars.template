@@ -1,0 +1,17 @@
+# ---- Tenant
+tenancy_ocid        = "ocid1.tenancy.oc1..aaaaaaaaxxxxxxxxxxxxxxxx"
+user_ocid           = "ocid1.user.oc1..aaaaaaaaxxxxxxxxxxxxxxx"
+fingerprint         = "xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx"
+private_key_path    = "/Users/cpauliat/.oci/apikey_OSCEMEA001_20200803.pem"
+region              = "eu-frankfurt-1"
+
+# ---- compartments
+compartment_id  = "ocid1.compartment.oc1..aaaaaaxxxxxxxxxxxxxxxx"  
+
+# ---- Network
+cidr_vcn             = "172.18.0.0/16"
+cidr_subnet_public   = "172.18.0.0/24"
+
+# ---- Sharing function
+sharing_bucket_name     = "sharing"
+sharing_function_id     = "ocid1.fnfunc.oc1.eu-amsterdam-1.aaaaaaaaaaaaaaaaaaaxxxxxxxxxxxxx"

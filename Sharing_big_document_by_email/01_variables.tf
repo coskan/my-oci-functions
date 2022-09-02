@@ -1,0 +1,10 @@
+variable "tenancy_ocid" {}
+variable "user_ocid" {}
+variable "fingerprint" {}
+variable "private_key_path" {}
+variable "region" {}
+variable "compartment_id" {}
+variable "cidr_vcn" {}
+variable "cidr_subnet_public" {}
+variable "sharing_bucket_name" {}
+variable "sharing_function_id" {}
